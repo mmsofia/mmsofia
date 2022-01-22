@@ -49,5 +49,5 @@
 </details>
 
 [instagram]: https://instagram.com/sofiiamassa
-[linkedin]: www.linkedin.com/in/mmsofia
+[linkedin]: https://linkedin.com/in/mmsofia
 [Curriculum]: https://drive.google.com/file/d/16K9pQnpOhLKT8-Gr0JFyIuNvoxLNwHXf/view?usp=sharing
