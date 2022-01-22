@@ -1,3 +1,5 @@
+[![MasterHead](https://www.canva.com/design/DAE2Gwibmnc/WdezCUYwetnYLxIHb0BeAg/view?utm_content=DAE2Gwibmnc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)]
+
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A passionate computer engineer student from Argentina</h3>
 
