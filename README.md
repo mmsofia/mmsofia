@@ -38,11 +38,11 @@
 
 <br />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmsofia&show_icons=true&locale=en" alt="mmsofia" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmsofia&show_icons=true&locale=en" alt="mmsofia" /></p>
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsofia&" alt="mmsofia" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsofia&" alt="mmsofia" /></p>
 
 <br />
 
