@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAE2Gwibmnc/WdezCUYwetnYLxIHb0BeAg/view?utm_content=DAE2Gwibmnc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)]
+[![MasterHead](https://www.canva.com/design/DAE2Gwibmnc/WdezCUYwetnYLxIHb0BeAg/view?utm_content=DAE2Gwibmnc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://github.com/mmsofia)
 
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A passionate computer engineer student from Argentina</h3>
