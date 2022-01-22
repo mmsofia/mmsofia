@@ -1,3 +1,5 @@
+![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQF-OC1z8zOQaw/profile-displaybackgroundimage-shrink_350_1400/0/1642869531481?e=1648080000&v=beta&t=ogtQW_XjgMoCIcC1ckKJuO9WsXn_FJ-esbwb3ok08YY)
+
 <h1 align="center">Hi 👋, I'm Sofia!</h1>
 <h3 align="center">A passionate computer engineer student from Argentina</h3>
 
