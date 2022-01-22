@@ -13,21 +13,41 @@
 
 - 🤝 I’m looking for help with **improving my Java skills**
 
-- 📫 How to reach me **mm.sofia@outlook.com**
+- 📫 Reach me via mail: **mm.sofia@outlook.com**
+
+- 📄 Know about my experiences: [Curriculum](https://drive.google.com/file/d/16K9pQnpOhLKT8-Gr0JFyIuNvoxLNwHXf/view?usp=sharing)
 
 - ⚡ Fun fact: **I love travelling & exploring new places 🛫**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mmsofia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mmsofia" height="30" width="40" /></a>
-<a href="https://discord.gg/Iyunni#6969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Iyunni#6969" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+[<img align="left" alt="mmsofia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sofiiamassa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmsofia&show_icons=true&locale=en&layout=compact" alt="mmsofia" /></p>
 
+<br />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmsofia&show_icons=true&locale=en" alt="mmsofia" /></p>
 
+<br />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsofia&" alt="mmsofia" /></p>
+
+<br />
+
+</details>
+
+[instagram]: https://instagram.com/sofiiamassa
+[linkedin]: www.linkedin.com/in/mmsofia
+[Curriculum]: https://drive.google.com/file/d/16K9pQnpOhLKT8-Gr0JFyIuNvoxLNwHXf/view?usp=sharing
