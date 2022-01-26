@@ -36,13 +36,20 @@
 <img align="left" alt="python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 
 <br />
+<br />
+<br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmsofia&show_icons=true&locale=en&layout=compact" alt="mmsofia" /></p>
 
 <br />
+<br />
+<br />
+<br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mmsofia&show_icons=true&locale=en" alt="mmsofia" /></p>
 
+<br />
+<br />
 <br />
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mmsofia&" alt="mmsofia" /></p>
